@@ -1,5 +1,5 @@
 # CPP-Projects
 
-## Module 01
+## Learning
 - Introductory C++ course
 - In progress
